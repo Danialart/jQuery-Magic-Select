@@ -1,2 +1,2 @@
 # jQuery-Magic-Select
-Simple jquery script to create custom select list, which use standart HTML select options and values.
+Simple jquery script to create a custom selection input list, which use a standart HTML select tag, options and values.
